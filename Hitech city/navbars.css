@@ -1,0 +1,17 @@
+html{
+    overflow-x: hidden;
+}
+
+
+
+.list-group-item{
+    margin-top: 1%;
+    margin-bottom: 1%;
+    
+}
+
+
+.main-color{
+    background-color: rgba(33,106,34,1)!important;
+}
+
